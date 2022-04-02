@@ -22,7 +22,7 @@ public class quick {
         System.out.println("排序后：");
         System.out.println(date2Str);
         System.out.println(Arrays.toString(array));
-        System.out.println("ss");
+
     }
 
     /**
