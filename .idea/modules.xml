@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/arrayQueue/arrayQueue.iml" filepath="$PROJECT_DIR$/arrayQueue/arrayQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dataBase.iml" filepath="$PROJECT_DIR$/.idea/dataBase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linkedList/linkedList.iml" filepath="$PROJECT_DIR$/linkedList/linkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursion/recursion.iml" filepath="$PROJECT_DIR$/recursion/recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sort/sort.iml" filepath="$PROJECT_DIR$/sort/sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparseArray/sparseArray.iml" filepath="$PROJECT_DIR$/sparseArray/sparseArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stack/stack.iml" filepath="$PROJECT_DIR$/stack/stack.iml" />
+    </modules>
+  </component>
+</project>

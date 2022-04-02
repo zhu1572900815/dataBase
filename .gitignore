@@ -1,0 +1,7 @@
+# Project exclude paths
+/arrayQueue/target/
+/linkedList/target/
+/recursion/target/
+/sort/target/
+/sparseArray/target/
+/stack/target/

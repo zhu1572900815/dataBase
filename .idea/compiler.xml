@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sparseArray" />
+        <module name="stack" />
+        <module name="sort" />
+        <module name="arrayQueue" />
+        <module name="recursion" />
+        <module name="linkedList" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="arrayQueue" target="1.7" />
+      <module name="linkedList" target="1.7" />
+      <module name="recursion" target="1.7" />
+      <module name="sort" target="1.7" />
+      <module name="sparseArray" target="1.8" />
+      <module name="stack" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
